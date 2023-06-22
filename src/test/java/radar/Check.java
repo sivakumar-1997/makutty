@@ -12,7 +12,8 @@ import static org.hamcrest.Matchers.*;
 
 import org.json.simple.JSONObject;
 
-public class Check {
+public class Check { 
+	//freddy
 	//----------------------getting previous values -----------------//
 	@Test(enabled = true)
 	public void get_req() {
